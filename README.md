@@ -27,6 +27,10 @@ DOI: https://doi.org/10.1109/TGRS.2024.3460476
 
 ## Requirements
 
+**Python Library required**
+
+1. spectral
+
 **List of inputs to run the code:**
 
  A. For SLC product: Elements of the processed C2 matrix alongside a slope file (tool available in SNAP software)
