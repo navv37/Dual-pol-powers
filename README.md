@@ -25,7 +25,7 @@ DOI: https://doi.org/10.1109/TGRS.2024.3460476
 1. Use Python code "Dual_pol_powers_decompostion_slc.py" for SLC (intensity and phase information) SAR data
 2. Use Python code "Dual_pol_powers_decompostion_grd.py" for GRD (only intensity, no phase information) SAR data
 
-### Note: Ensure that "RGB_display_dual_pol_powers.py" code is there in the same folder along with Method-I and Method-II Python files to generate RGB images of the powers.
+### Note: To generate RGB images of the powers, ensure that "RGB_display_dual_pol_powers.py" code is there in the same folder along with Method-I and Method-II Python files.
 
 ## Requirements
 
