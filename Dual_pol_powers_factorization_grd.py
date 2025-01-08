@@ -15,7 +15,7 @@ Related publication: Abhinav Verma, Avik Bhattacharya, Subhadip Dey, Carlos Lóp
  DOI: https://doi.org/10.1016/j.isprsjprs.2024.05.010
  
 List of inputs:
-1. A processed C2 matrix
+1. Sigma0_VV and Sigma0_VH files
 2. A slope file (tool avilable in SNAP software)
 Note 1 and 2 should be present inside a same folder
     
