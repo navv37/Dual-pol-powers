@@ -27,9 +27,12 @@ DOI: https://doi.org/10.1109/TGRS.2024.3460476
 
 ## Requirements
 
-**Python Library required**
+**Python libraries required**
 
 1. spectral
+2. numpy
+3. scipy
+4. matplotlib
 
 **List of inputs to run the code:**
 
