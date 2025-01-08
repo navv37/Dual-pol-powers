@@ -5,27 +5,27 @@ MRSLab, Indian Institute of Technology Bombay, India
 
 **Method-I: Factorization based approach**
 
-Publication: Abhinav Verma, Avik Bhattacharya, Subhadip Dey, Carlos López-Martínez, and Paolo Gamba, 
+**Publication:** Abhinav Verma, Avik Bhattacharya, Subhadip Dey, Carlos López-Martínez, and Paolo Gamba, 
 "Scattering power components from dual-pol Sentinel-1 SLC and GRD SAR data".
-ISPRS Journal of Photogrammetry and Remote Sensing, vol.212, pp. 289-305, 2023.
+*ISPRS Journal of Photogrammetry and Remote Sensing*, vol.212, pp. 289-305, 2023.
 DOI: https://doi.org/10.1016/j.isprsjprs.2024.05.010
 
-To get the dual-pol scattering power components using Method-I:
+**To get the dual-pol scattering power components using Method-I:**
 1. Use Python code "Dual_pol_powers_factorization_slc" for SLC (intensity and phase information) SAR data
 2. Use Python code "Dual_pol_powers_factorization_grd" for GRD (only intensity, no phase information) SAR data
 
 **Method-II: Decomposition based approach**
 
-Publication: Abhinav Verma, Avik Bhattacharya, Subhadip Dey, Armando Marino, and Paolo Gamba, 
+**Publication:** Abhinav Verma, Avik Bhattacharya, Subhadip Dey, Armando Marino, and Paolo Gamba, 
 "Target Characterization and Scattering Power Components From Dual-Pol Sentinel-1 SAR Data".
-IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-19, 2024, Art no. 5222619.
+*IEEE Transactions on Geoscience and Remote Sensing*, vol. 62, pp. 1-19, 2024, Art no. 5222619.
 DOI: https://doi.org/10.1109/TGRS.2024.3460476
 
-To get the dual-pol scattering power components using Method-II:
+**To get the dual-pol scattering power components using Method-II:**
 1. Use Python code "Dual_pol_powers_decompostion_slc" for SLC (intensity and phase information) SAR data
 2. Use Python code "Dual_pol_powers_decompostion_grd" for GRD (only intensity, no phase information) SAR data
 
-List of inputs to run the code:
+**List of inputs to run the code:**
 
  A. For SLC product: Elements of the processed C2 matrix alongside a slope file (tool available in SNAP software)
   1. C11.bin.hdr
@@ -39,7 +39,7 @@ List of inputs to run the code:
   2. Sigma0_VH.bin.hdr
   3. slope.bin.hdr
 
-Standard processing steps to process dual-pol SAR data in SNAP:
+**Standard processing steps to process dual-pol SAR data in SNAP:**
 
  A. For SLC product
   1. TopSAR split 
