@@ -3,7 +3,7 @@ Author - Mr. Abhinav Verma and Prof. Avik Bhattacharya
 
 MRSLab, Indian Institute of Technology Bombay, India
 
-Method-I: Factorization based approach
+**Method-I: Factorization based approach**
 Publication: Abhinav Verma, Avik Bhattacharya, Subhadip Dey, Carlos López-Martínez, and Paolo Gamba, 
 "Scattering power components from dual-pol Sentinel-1 SLC and GRD SAR data".
 ISPRS Journal of Photogrammetry and Remote Sensing, vol.212, pp. 289-305, 2023.
