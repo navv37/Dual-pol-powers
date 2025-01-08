@@ -22,6 +22,7 @@ To get the dual-pol scattering power components using Method-II:
 2. Use Python code "Dual_pol_powers_decompostion_grd" for GRD (only intensity, no phase information) SAR data
 
 List of inputs to run the code:
+
  A. For SLC product: Elements of the processed C2 matrix alongside a slope file (tool available in SNAP software)
   1. C11.bin.hdr
   2. C12_real.bin.hdr
@@ -35,6 +36,7 @@ List of inputs to run the code:
   3. slope.bin.hdr
 
 Standard processing steps to process dual-pol SAR data in SNAP:
+
  A. For SLC product
   1. TopSAR split 
   2. Apply "orbit file"
