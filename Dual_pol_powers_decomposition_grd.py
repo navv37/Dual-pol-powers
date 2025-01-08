@@ -14,7 +14,7 @@ IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-19, 2024, Art
 DOI: 10.1109/TGRS.2024.3460476
  
 List of inputs:
-1. A processed C2 matrix
+1. Sigma0_VV and Sigma0_VH files
 2. A slope file (tool avilable in SNAP software)
 Note 1 and 2 should be present inside a same folder
     
