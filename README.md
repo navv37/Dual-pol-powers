@@ -11,8 +11,8 @@ MRSLab, Indian Institute of Technology Bombay, India
 DOI: https://doi.org/10.1016/j.isprsjprs.2024.05.010
 
 **To get the dual-pol scattering power components using Method-I:**
-1. Use Python code "Dual_pol_powers_factorization_slc" for SLC (intensity and phase information) SAR data
-2. Use Python code "Dual_pol_powers_factorization_grd" for GRD (only intensity, no phase information) SAR data
+1. Use Python code "Dual_pol_powers_factorization_slc.py" for SLC (intensity and phase information) SAR data
+2. Use Python code "Dual_pol_powers_factorization_grd.py" for GRD (only intensity, no phase information) SAR data
 
 ## Method-II: Decomposition based approach
 
@@ -22,8 +22,10 @@ DOI: https://doi.org/10.1016/j.isprsjprs.2024.05.010
 DOI: https://doi.org/10.1109/TGRS.2024.3460476
 
 **To get the dual-pol scattering power components using Method-II:**
-1. Use Python code "Dual_pol_powers_decompostion_slc" for SLC (intensity and phase information) SAR data
-2. Use Python code "Dual_pol_powers_decompostion_grd" for GRD (only intensity, no phase information) SAR data
+1. Use Python code "Dual_pol_powers_decompostion_slc.py" for SLC (intensity and phase information) SAR data
+2. Use Python code "Dual_pol_powers_decompostion_grd.py" for GRD (only intensity, no phase information) SAR data
+
+### Please keep "RGB_display_dual_pol_powers.py" with Method-I and Method-II Python files to generate RGB images of the powers.
 
 ## Requirements
 
