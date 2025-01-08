@@ -25,6 +25,8 @@ DOI: https://doi.org/10.1109/TGRS.2024.3460476
 1. Use Python code "Dual_pol_powers_decompostion_slc" for SLC (intensity and phase information) SAR data
 2. Use Python code "Dual_pol_powers_decompostion_grd" for GRD (only intensity, no phase information) SAR data
 
+## Requirements
+
 **List of inputs to run the code:**
 
  A. For SLC product: Elements of the processed C2 matrix alongside a slope file (tool available in SNAP software)
