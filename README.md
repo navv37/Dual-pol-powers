@@ -3,7 +3,7 @@ Author - Mr. Abhinav Verma and Prof. Avik Bhattacharya
 
 MRSLab, Indian Institute of Technology Bombay, India
 
-### Method-I: Factorization based approach
+## Method-I: Factorization based approach
 
 **Publication:** Abhinav Verma, Avik Bhattacharya, Subhadip Dey, Carlos López-Martínez, and Paolo Gamba, 
 "Scattering power components from dual-pol Sentinel-1 SLC and GRD SAR data".
@@ -14,7 +14,7 @@ DOI: https://doi.org/10.1016/j.isprsjprs.2024.05.010
 1. Use Python code "Dual_pol_powers_factorization_slc" for SLC (intensity and phase information) SAR data
 2. Use Python code "Dual_pol_powers_factorization_grd" for GRD (only intensity, no phase information) SAR data
 
-**Method-II: Decomposition based approach**
+## Method-II: Decomposition based approach
 
 **Publication:** Abhinav Verma, Avik Bhattacharya, Subhadip Dey, Armando Marino, and Paolo Gamba, 
 "Target Characterization and Scattering Power Components From Dual-Pol Sentinel-1 SAR Data".
