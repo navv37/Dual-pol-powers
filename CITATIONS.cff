@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this python codes, please cite it as below."
+authors:
+- family-names: "Verma"
+  given-names: "Abhinav"
+  orcid: "https://orcid.org/0000-0002-8349-8697"
+title: "Dual-pol Scattering Power Components"
+version: 1.0
+doi: https://doi.org/10.5281/zenodo.15728458
+date-released: 2025-01-36
+url: "https://doi.org/10.5281/zenodo.15728458"
