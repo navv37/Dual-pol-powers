@@ -1,9 +1,7 @@
-# Dual-pol scattering power components 
+# Dual-pol scattering power components [![DOI](https://zenodo.org/badge/715061292.svg)](https://doi.org/10.5281/zenodo.15728457)
 Author - Mr. Abhinav Verma and Prof. Avik Bhattacharya
 
 MRSLab, Indian Institute of Technology Bombay, India
-
-Cite this repoistry:[![DOI](https://zenodo.org/badge/715061292.svg)](https://doi.org/10.5281/zenodo.15728457)
 
 ## Method-I: Factorization based approach
 
