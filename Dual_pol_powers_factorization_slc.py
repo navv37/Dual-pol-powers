@@ -120,11 +120,11 @@ s3_mask = np.multiply(s3,Slope_msk);
 ##### Normalizing Stokes vector elements
 
 def S_norm(S_array):
-    S_5 = np.percentile(S_array, 5)
-    S_95 = np.percentile(S_array, 95)
+    S_5 = np.nanpercentile(S_array, 5)
+    S_95 = np.nanpercentile(S_array, 95)
     S_cln = np.where(S_array > S_95, S_95, S_array)
     S_cln = np.where(S_cln < S_5, S_5, S_cln)
-    S_cln_max = np.max(S_cln)
+    S_cln_max = np.nanmax(S_cln)
     S_norm_array = np.divide(S_cln,S_cln_max) 
     
     return S_norm_array
@@ -215,6 +215,7 @@ os.chdir(sdir)
 
 import RGB_display_dual_pol_powers
 RGB_display_dual_pol_powers.RGB_func(Pd, Pr, Ps, n, method, p_type)
+
 
 
 
